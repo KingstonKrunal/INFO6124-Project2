@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">INFO6124-Project2</string>
+    <string name="title_activity_maps">Krunal Shah Project 2</string>
+
+    <string name="service">Location Services not working</string>
+    <string name="invalid_lat_long">Invalid Latitude and Longitude</string>
+    <string name="no_address_found">No address found from that Lat/Lng</string>
+    <string name="share_location">Share Location</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="send_email">Send Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="send_sms">Send SMS</string>
+</resources>
